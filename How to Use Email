@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Use Email - Click Start</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+        }
+        h2, h3 {
+            color: navy;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid lightgray;
+            margin-top: 5px;
+        }
+        .back-link {
+            margin-top: 20px;
+        }
+        .back-link a {
+            text-decoration: none;
+            color: blue;
+        }
+        .back-link a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h2>How to Use Email</h2>
+
+    <h3>Creating an Email Account (e.g., Gmail or Outlook)</h3>
+    <ul>
+        <li>Go to the website of the email provider (e.g., <a href="https://www.gmail.com" target="_blank">Gmail</a> or <a href="https://outlook.live.com" target="_blank">Outlook</a>).</li>
+        <li>Click on "Create account" or a similar button.</li>
+        <li>Fill out the registration form with your details.</li>
+        <li>Choose a username and a strong password.</li>
+        <li>Follow the on-screen instructions to complete the setup.</li>
+        <li>You might need to verify your account using a phone number.</li>
+    </ul>
+
+    <h3>Sending and Receiving Emails</h3>
+    <ul>
+        <li><strong>To send an email:</strong> Click on "Compose" or "New Email."</li>
+        <li>Enter the recipient's email address in the "To" field.</li>
+        <li>Write a brief summary of your email in the "Subject" field.</li>
+        <li>Type your message in the main body of the email.</li>
+        <li>Click "Send."</li>
+        <li><strong>To receive an email:</strong> New emails will appear in your "Inbox."</li>
+        <li>Click on an email in your inbox to open and read it.</li>
+    </ul>
+
+    <h3>Understanding: To, CC, BCC, Subject</h3>
+    <p>When you write a new email, you'll see a few important boxes:</p>
+    <ul>
+        <li>
+            <strong>To:</strong> The person you’re sending it to.
+            </li>
+        <li>
+            <strong>CC (Carbon Copy):</strong> Others who should see it. Everyone in 'To' and 'CC' can see all addresses.
+            </li>
+        <li>
+            <strong>BCC (Blind Carbon Copy):</strong> Others who should see it privately. Their addresses are hidden.
+            </li>
+        <li>
+            <strong>Subject:</strong> A quick title for your message.
+            </li>
+    </ul>
+
+    <h3>How to Attach Files and Photos</h3>
+    <ul>
+        <li>When composing an email, look for a paperclip icon or a button that says "Attach."</li>
+        <li>Click on it and a file explorer window will open.</li>
+        <li>Select the file(s) you want to attach and click "Open" or "Attach."</li>
+        <li>The attached file(s) will usually appear below the subject line.</li>
+    </ul>
+
+    <h3>How to Open Attachments</h3>
+    <ul>
+        <li>When you receive an email with an attachment, you'll see an icon (like a paperclip) next to the email in your inbox or within the email itself.</li>
+        <li>Click on the attachment to download it to your computer.</li>
+        <li>Once downloaded, you can usually click on the file to open it. Make sure you trust the sender before opening attachments.</li>
+    </ul>
+
+    <h3>How to Avoid Spam or Suspicious Links</h3>
+    <ul>
+        <li>Be cautious of emails from unknown senders.</li>
+        <li>Don't click on links in emails that seem suspicious or ask for personal information.</li>
+        <li>Look out for poor grammar or spelling in emails.</li>
+        <li>Never share your password in response to an email.</li>
+        <li>Spam emails often promise unrealistic rewards or create a sense of urgency.</li>
+    </ul>
+
+    <h3>Email Etiquette</h3>
+    <ul>
+        <li>Start with a polite greeting (e.g., "Dear [Name]," or "Hello [Name],").</li>
+        <li>Be clear and concise in your message.</li>
+        <li>Avoid writing in all capital letters, as it can be seen as shouting.</li>
+        <li>Use proper grammar and spelling.</li>
+        <li>End with a polite closing (e.g., "Sincerely," "Best regards,").</li>
+        <li>Proofread your email before sending it.</li>
+    </ul>
+
+    <div class="back-link">
+        <a href="index.html">Back to Homepage</a>
+    </div>
+</body>
+</html>
