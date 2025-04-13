@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Click Start: A Beginner's Guide to Computers</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: navy;
+        }
+        .module {
+            border: 1px solid lightgray;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+        }
+        .module h3 {
+            color: darkgreen;
+        }
+        .module a {
+            text-decoration: none;
+            color: blue;
+        }
+        .module a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Click Start: Your Guide to Basic Computer Skills</h1>
+    <p>This website is designed to help beginners learn essential computer skills. Click on the topics below to get started:</p>
+
+    <div class="module">
+        <h3><a href="email_basics.html">1. How to Use Email</a></h3>
+        <p>Learn how to create an account, send and receive emails, understand the different parts of an email, and stay safe.</p>
+    </div>
+
+    <div class="module">
+        <h3><a href="browser_basics.html">2. What is a Browser & How to Use It</a></h3>
+        <p>Discover what a web browser is and how to navigate the internet effectively.</p>
+    </div>
+
+    <div class="module">
+        <h3><a href="online_safety.html">3. Online Safety Basics</a></h3>
+        <p>Learn how to protect yourself from scams and stay safe while using the internet.</p>
+    </div>
+
+    <div class="module">
+        <h3><a href="keyboard_mouse.html">4. Using a Keyboard & Mouse</a></h3>
+        <p>Understand the basics of using a keyboard and mouse to interact with your computer.</p>
+    </div>
+
+    <div class="module">
+        <h3><a href="documents.html">5. Creating & Saving a Document</a></h3>
+        <p>Learn how to create, save, and manage basic documents on your computer.</p>
+    </div>
+
+    <hr>
+    <p>&copy; 2025 Click Start</p>
+</body>
+</html>
