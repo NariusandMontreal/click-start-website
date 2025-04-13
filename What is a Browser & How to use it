@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What is a Browser & How to Use It - Click Start</title>
+    <style>
+        /* Basic CSS - feel free to expand */
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+        }
+        h2, h3 {
+            color: navy;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid lightgray;
+            margin-top: 5px;
+        }
+        .back-link {
+            margin-top: 20px;
+        }
+        .back-link a {
+            text-decoration: none;
+            color: blue;
+        }
+        .back-link a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h2>What is a Browser & How to Use It</h2>
+
+    <h3>What Browsers Are</h3>
+    <p>A web browser is a software application that allows you to access and view websites on the internet. Think of it as a window to the online world. Some popular web browsers include:</p>
+    <ul>
+        <li>Google Chrome </li>
+        <li>Mozilla Firefox </li>
+        <li>Apple Safari (usually comes with Apple devices) </li>
+        <li>Microsoft Edge (the newer version of Internet Explorer) </li>
+    </ul>
+
+    <h3>How to Open a Browser and Use the Address/Search Bar</h3>
+    <ul>
+        <li><strong>Opening a browser:</strong> Look for the browser's icon on your desktop or in your computer's start menu (Windows) or dock (Mac). Double-click the icon to open it.</li>
+        <li><strong>Address Bar:</strong> This is usually at the top of the browser window. You can type a website address (URL) directly into it (e.g., www.google.com) and press Enter to go to that website. </li>
+        <li><strong>Search Bar:</strong> Sometimes, the address bar also functions as a search bar. If you type keywords instead of a website address (e.g., "weather in Winston-Salem"), the browser will usually use a search engine (like Google) to show you relevant results. </li>
+    </ul>
+
+    <h3>Bookmarking a Page</h3>
+    <ul>
+        <li>Bookmarking (or saving as a favorite) allows you to quickly access websites you visit often.</li>
+        <li>Look for a star icon (<img src="images/bookmark_icon.png" alt="Bookmark Icon" style="width: 20px; vertical-align: middle;"> - you'll need to find an image for this) usually located to the right of the address bar.</li>
+        <li>Click the star icon to bookmark the current page. You might be able to name the bookmark and choose where to save it.</li>
+        <li>To access your bookmarks, look for a "Bookmarks" menu or a folder icon, often located in the browser's toolbar or menu.</li>
+    </ul>
+
+    <h3>Understanding Tabs and How to Switch Between Them</h3>
+    <ul>
+        <li>Tabs allow you to have multiple websites open in the same browser window. They appear as small rectangles at the top of the browser.</li>
+        <li>To open a new tab, look for a plus (+) icon next to the last open tab or use a keyboard shortcut (Ctrl+T on Windows, Cmd+T on Mac). </li>
+        <li>To switch to a different website, simply click on its tab.</li>
+    </ul>
+
+    <h3>Clearing Browsing History</h3>
+    <ul>
+        <li>Your browser keeps a record of the websites you've visited (your browsing history).</li>
+        <li>To clear it, look for a "History" option in the browser's menu (usually found by clicking three dots or lines in the top right corner).</li>
+        <li>Select "Clear browsing data" or a similar option.</li>
+        <li>You'll usually be able to choose the time range (e.g., last hour, all time) and what data to clear (e.g., browsing history, cookies, cached images and files).</li>
+        <li>Be careful when clearing cookies, as this might log you out of websites.</li>
+    </ul>
+
+    <div class="back-link">
+        <a href="index.html">Back to Homepage</a>
+    </div>
+</body>
+</html>
